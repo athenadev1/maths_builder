@@ -12,3 +12,9 @@ q1.question = "What is 13 + 7 ?"
 q1.answer = "20"
 
 print(q1)
+
+q2 = MB_Question()
+q2.question = "You have 5 cakes and you give 2 to your friend.  How many do you have left?"
+q2.answer = "2"
+
+print(q2)
