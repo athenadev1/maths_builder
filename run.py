@@ -18,3 +18,9 @@ q2.question = "You have 5 cakes and you give 2 to your friend.  How many do you 
 q2.answer = "2"
 
 print(q2)
+
+q3 = MB_Question()
+q3.question = "What is the area of a square that has 2cm sides?"
+q3.answer = "4cm2"
+
+print(q3)
