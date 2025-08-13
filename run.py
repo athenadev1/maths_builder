@@ -21,6 +21,6 @@ print(q2)
 
 q3 = MB_Question()
 q3.question = "What is the area of a square that has 2cm sides?"
-q3.answer = "4cm2"
+q3.answer = "4cm\u00b2"
 
 print(q3)
