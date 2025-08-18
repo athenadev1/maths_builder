@@ -5,4 +5,4 @@ class MB_Question():
         self.answer = ""
 
     def __repr__(self):
-        return "Question: " + self.question_text + + "\nQuestion Image: " + self.question_image + "\nAnswer: " + self.answer
+        return "\nQuestion Image: " + self.question_image + "\nQuestion: " + self.question_text  + "\nAnswer: " + self.answer
